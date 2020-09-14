@@ -1,7 +1,16 @@
 QueMar Quefrency rev2 Keyboard Case
 =======================
 
-Case design file for the [Quefrency rev2](https://keeb.io/products/quefrency-rev-2-60-65-split-staggered-keyboard). 
+The QueMar is a custom hi-profile case for the [Quefrency rev2](https://keeb.io/products/quefrency-rev-2-60-65-split-staggered-keyboard). 
+
+![QueMar Quefrency rev2 case](/pics/split.jpg)
+![QueMar Quefrency rev2 case](/pics/left.jpg)
+![QueMar Quefrency rev2 case](/pics/right.jpg)
+![QueMar Quefrency rev2 case](/pics/one-piece.jpg)
+![QueMar Quefrency rev2 case](/pics/bottom.jpg)
+![QueMar Quefrency rev2 case](/pics/left-notch-cad.png)
+![QueMar Quefrency rev2 case](/pics/right-cad.png)
+
 
 ### Switch Plate
 
